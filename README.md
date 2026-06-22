@@ -6,7 +6,7 @@ This repository focuses on **Python basics**, logic building, and hands-on pract
 
 It is ideal for:
 - Beginners who are new to Python  
-- Students learning programming fundamentals  
+- Students learning programming fundamentals
 - Practice and revision of Python concepts  
 
 ---
